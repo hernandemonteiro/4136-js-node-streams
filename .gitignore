@@ -1,0 +1,9 @@
+backend/uploads/*
+backend/node_modules
+backend/*.mp4
+backend/*.csv
+backend/.env
+
+largeFile.csv
+
+node_modules
